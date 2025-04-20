@@ -105,4 +105,4 @@ Dashboard previews here :
 
 **[Prasenjit Saha]**  
 📧 prasenjit8841@gmail.com  
-🔗 (https://www.linkedin.com/in/prasenjitsaha8841/)
+🔗 [LinkedIn](https://www.linkedin.com/in/prasenjitsaha8841/)
