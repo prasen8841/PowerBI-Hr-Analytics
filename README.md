@@ -103,6 +103,6 @@ Dashboard previews here :
 
 ## 🙋 Author
 
-**[Your Name]**  
+**[Prasenjit Saha]**  
 📧 prasenjit8841@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/prasenjitsaha8841/)
+🔗 (https://www.linkedin.com/in/prasenjitsaha8841/)
