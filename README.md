@@ -103,6 +103,7 @@ Dashboard previews here :
 
 ## 🙋 Author
 
-**[Prasenjit Saha]**  
-📧 email: prasenjit8841@gmail.com  
-🔗 [LinkedIn]: (https://www.linkedin.com/in/prasenjitsaha8841/)
+**[Prasenjit Saha]**
+
+## 📬 Contact
+For feedback or collaborations: [Prasenjit Saha/ prasenjit8841@gmail.com [LinkedIn]:(https://www.linkedin.com/in/prasenjitsaha8841/)]
