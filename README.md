@@ -99,12 +99,6 @@ Dashboard previews here :
 (https://drive.google.com/file/d/1RN9mVKNL4ISPe_Kjb25kKW-fpH4KzPBm/view?usp=sharing)
 (https://drive.google.com/file/d/1qwPn7DF_73JLX44Uz6CzeqZKSYGQo5Wh/view?usp=sharing)_
 
-```
-
-## 🙋 Author
-
-**[Prasenjit Saha]**
-
 ---
 
 ## 📬 Contact
